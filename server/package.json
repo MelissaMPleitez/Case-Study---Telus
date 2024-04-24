@@ -1,0 +1,22 @@
+{
+  "name": "casestudy_telus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Melissa Pleitez",
+  "license": "ISC",
+  "dependencies": {
+    "asn1": "^0.2.6",
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "node-rsa": "^1.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
